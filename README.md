@@ -19,14 +19,15 @@ AUTORS:
 
 
 This repository contains:
-• A pdf version of our OSM 2024 poster
-• Jupyter Notebooks recreating the figures, and some aditional plots
-• Links to datasets and references (below)
+
+- A pdf version of our OSM 2024 poster
+- Jupyter Notebooks recreating the figures, and some aditional plots
+- Links to datasets and references (below)
 
 # REFERENCES
 
 - [Boutin, J., Vergely, J.L., Marchand, S., d'Amico, F., Hasson, A., Kolodziejczyk, N., Reul, N., Reverdin, G. and Vialard, J., 2018. New SMOS Sea Surface Salinity with reduced systematic errors and improved variability. Remote Sensing of Environment, 214, pp.115-134.](https://doi.org/10.1016/j.rse.2018.05.022)
--[CATDS-PDC L3OS 2Q - Debiased daily valid ocean salinity values product from SMOS satellite](http://dx.doi.org/10.12770/12dba510-cd71-4d4f-9fc1-9cc027d128b0)
+- [CATDS-PDC L3OS 2Q - Debiased daily valid ocean salinity values product from SMOS satellite](http://dx.doi.org/10.12770/12dba510-cd71-4d4f-9fc1-9cc027d128b0)
 - [Good, S.A., Martin, M.J. and Rayner, N.A., 2013. EN4: Quality controlled ocean temperature and salinity profiles and monthly objective analyses with uncertainty estimates. Journal of Geophysical Research: Oceans, 118(12), pp.6704-6716.](https://doi.org/10.1002/2013JC009067)
 - [Hackert, E.C., Kovach, R.M., Busalacchi, A.J. and Ballabrera‐Poy, J., 2019. Impact of Aquarius and SMAP satellite sea surface salinity observations on coupled El Niño/Southern Oscillation forecasts. Journal of Geophysical Research: Oceans, 124(7), pp.4546-4556.](https://doi.org/10.1029/2019JC015130)
 - [Hackert, E., Kovach, R.M., Molod, A., Vernieres, G., Borovikov, A., Marshak, J. and Chang, Y., 2020. Satellite sea surface salinity observations impact on El Niño/Southern Oscillation predictions: Case studies from the NASA GEOS seasonal forecast system. Journal of Geophysical Research: Oceans, 125(4), p.e2019JC015788.](https://doi.org/10.1029/2019JC015788)
